@@ -29,7 +29,7 @@
 ## ⚙️ Вычислительный движок
 
 Для расчета точных резонансных параметров, углов сдвига фаз и частотных отсечек фильтра $\hat{U}$ инженеры института используют программные модули из главного ядра:
-➡️ **[Скрипты симуляций в репозитории Program](https://github.com)**
+➡️ **[Скрипты симуляций в репозитории Program](https://github.com/sania-369/Encyclopedia-of-the-process-of-dynamic-deployment-of-fractal-11D-reality-through-powerful-AI-systems)**
 
 ---
 
